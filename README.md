@@ -3,7 +3,7 @@
 Professor Philip's Homework Assignment  
   
 Instructions:  
-    Place input in input.txt  
-    Run rover-main.lisp  
+&nbsp;&nbsp;&nbsp;&nbsp;1) Place input in input.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;2) Run rover-main.lisp  
   
 I heard professors like Lisp.
